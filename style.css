@@ -1,0 +1,29 @@
+body{
+background-color:pink;
+}
+
+
+.button{
+    color: white;
+    margin-left: 450px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    height: 50px;
+    width: 100%;
+    justify-content: center;
+}
+.quot{
+    width: 50%;
+    height: 50%;
+    align-items: center ;
+    text-align: center;
+    margin-left: 380px;
+    background-color: aqua;
+    margin-top: 120px;
+    font-size: x-large;
+
+}
+.des{
+    background-color: black;
+    color: white;
+}
